@@ -1,0 +1,6 @@
+{
+  "name": "NyayaDesk - After Hours AI Voice for Bengaluru Law Firms",
+  "description": "After hours AI voice answering for personal injury law firms in Bengaluru by Aksora AI. Every night and weekend call answered with verified callback booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
